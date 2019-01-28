@@ -1,8 +1,5 @@
 # testpkg
-
-[![(npm scoped)]
-(https://img.shields.io/npm/v/:packageName.svg)]
-(https://github.com/aghaffar570/testpkg)
+![](https://img.shields.io/github/forks/aghaffar570/testpkg.svg)
 
 
 a test npm package
