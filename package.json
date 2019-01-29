@@ -1,0 +1,16 @@
+{
+  "name": "@aghaffar570/testpkg",
+  "version": "2.0.0",
+  "description": "stores every log and prints it to the console",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "test",
+    "npm",
+    "console"
+  ],
+  "author": "",
+  "license": "MIT"
+}
