@@ -4,7 +4,7 @@
 [![install size](https://packagephobia.now.sh/badge?p=@aghaffar570/testpkg)](https://packagephobia.now.sh/result?p=@aghaffar570/testpkg)
 
 
-a test npm package that stores every log and prints it to the console.
+A simple npm package that stores every log and prints it to the console. Great for debugging old logs.
 
 
 ## install
